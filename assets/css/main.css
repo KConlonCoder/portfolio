@@ -186,10 +186,6 @@ input, select, textarea {
 		flex-direction: column;
 	}
 
-	.spacing-override * {
-		line-height: 1em !important;
-	}
-
 	.center {
 		justify-content: center;
 	}
