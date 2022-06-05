@@ -3425,3 +3425,7 @@ blockquote {
 #aboutme-container > section > .logo {
 	flex-shrink: 0;
 }
+
+#header > section + section {
+	margin-top: 2rem;
+}
