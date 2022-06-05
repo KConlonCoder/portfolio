@@ -2785,7 +2785,7 @@ input, select, textarea {
 	}
 
 		#header:before, #header:after {
-			background: rgba(224, 224, 224, 0.75);
+			/* background: rgba(224, 224, 224, 0.75); */
 			content: '';
 			left: 50%;
 			position: absolute;
@@ -3428,4 +3428,8 @@ blockquote {
 
 #myprocess > section + section {
 	margin-top: 1rem;
+}
+
+#header * {
+	border: none;
 }
