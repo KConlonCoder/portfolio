@@ -3425,3 +3425,7 @@ blockquote {
 #header > section + section {
 	margin-top: 2rem;
 }
+
+#myprocess > section + section {
+	margin-top: 1rem;
+}
